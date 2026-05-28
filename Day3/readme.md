@@ -25,7 +25,9 @@ Display:
 Eligible / Not Eligible
 Bonus amount if eligible
 
-2.)Smart Login System
+
+
+2)Smart Login System
 Problem Statement:
 
 Create a login system with:
@@ -52,6 +54,8 @@ Extra twist:
 
 If username is correct but password starts with "Java" and ends with "123" but still incorrect, print:
 "Almost correct password"
+
+
 
 
 3)Electricity Bill Generator
@@ -84,9 +88,6 @@ If invalid menu entered:
 print "Invalid Connection Type"
 
 4)College Admission Predictor
-Concepts:
-
-if-else ladder, logical operators, nested if
 
 Problem Statement:
 
@@ -116,10 +117,10 @@ Output:
 Admission status
 Scholarship status
 
-5)Restaurant Ordering System (Advanced Menu Driven)
-Concepts:
 
-switch, nested switch, logical operators
+
+
+5)Restaurant Ordering System (Advanced Menu Driven)
 
 Problem Statement:
 
