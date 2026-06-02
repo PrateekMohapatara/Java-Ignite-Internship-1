@@ -22,3 +22,10 @@ Twist:
 
 Final amount must be returned, not printed directly inside constructor.
 */
+
+public class ECommerceOrderSystem
+{
+	public static void main(String args[]) {
+		System.println("Hello,tes");
+	}
+}
